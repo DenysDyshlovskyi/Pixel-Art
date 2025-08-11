@@ -4,3 +4,4 @@ A collection of my pixel art projects and animations
 > [!NOTE]  
 > These are not all my projects, I have yet to upload most of them.
 
+Want to see some of the pixel art cards i made for a project? Check out this custom [card library](https://nocskir.com/card-dex.php). Note that some of the art is made in collaboration with @HenrikHaaland and @jahaa023.
